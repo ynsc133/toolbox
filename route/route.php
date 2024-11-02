@@ -11,7 +11,7 @@
 
 //后台
 Route::rule('admin/:c/:a', 'admin/:c/:a');
-Route::rule('admin', function(){
+Route::rule('admin123', function(){
     return redirect('admin/index/index');
 });
 
