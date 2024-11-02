@@ -50,3 +50,8 @@ services:
 docker-compose up -d
 ```
 
+
+
+## 3 后台地址
+
+https://你的域名/admin/index/index.html)
